@@ -1,23 +1,3 @@
-🎓 Computer Science Polytechnic Diploma Student
-
-🤖 Passionate about Artificial Intelligence & Data Science
-
-💻 Skills:
-Python • Java • C++ • Web Development
-
-🚀 Tech enthusiast who enjoys building projects, solving problems, and exploring modern technologies.
-
-🌱 Currently learning:
-AI • Machine Learning • Full-Stack Development
-
-🤝 Looking to collaborate on:
-Open-source projects & innovative tech ideas
-
-💬 Ask me about:
-Programming, AI tools, Web Development, and Tech
-
-⚡ Fun fact:
-I love turning ideas into real-world projects through code.
 
 # 💫 About Me:
 🎓 Computer Science Polytechnic Diploma Student<br><br>🤖 Passionate about Artificial Intelligence & Data Science<br><br>💻 Skills:<br>Python • Java • C++ • Web Development<br><br>🚀 Tech enthusiast who enjoys building projects, solving problems, and exploring modern technologies.<br><br>🌱 Currently learning:<br>AI • Machine Learning • Full-Stack Development<br><br>🤝 Looking to collaborate on:<br>Open-source projects & innovative tech ideas<br><br>💬 Ask me about:<br>Programming, AI tools, Web Development, and Tech<br><br>⚡ Fun fact:<br>I love turning ideas into real-world projects through code.
